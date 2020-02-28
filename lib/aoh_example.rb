@@ -24,6 +24,7 @@ def literal_aoh
     KATE_G.sort,
     BRUCE_G.sort
     ]
+    aoh.sort 
   
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
